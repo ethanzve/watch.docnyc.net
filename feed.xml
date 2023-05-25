@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Watch.DocNYC</title>
+    <link>https://watch.docnyc.net/</link>
+    <description>The official website of the DOC NYC film festival.</description>
+    <atom:link href="https://watch.docnyc.net/feed/" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <pubDate>Fri, 20 May 2023 00:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 20 May 2023 00:00:00 GMT</lastBuildDate>
+    <generator>WordPress</generator>
+    <image>
+      <url>https://watch.docnyc.net/wp-content/uploads/2022/09/docnyc-2022-hero-2-1920x1200.jpg</url>
+      <title>Watch.DocNYC</title>
+      <link>https://watch.docnyc.net/</link>
+    </image>
+    <item>
+      <title>DOC NYC Announces 2023 Lineup</title>
+      <link>https://watch.docnyc.net/2023-lineup/</link>
+      <description>DOC NYC, the leading documentary film festival in the United States, has announced its 2023 lineup. The festival will take place from November 10-19 in New York City.</description>
+      <pubDate>Fri, 20 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://watch.docnyc.net/2023-lineup/</guid>
+      <author>DOC NYC</author>
+    </item>
+    <item>
+      <title>Tickets on Sale Now for DOC NYC 2023</title>
+      <link>https://watch.docnyc.net/tickets/</link>
+      <description>Tickets are now on sale for DOC NYC 2023. The festival will take place from November 10-19 in New York City.</description>
+      <pubDate>Fri, 20 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://watch.docnyc.net/tickets/</guid>
+      <author>DOC NYC</author>
+    </item>
+    <item>
+      <title>DOC NYC Announces 2023 Jury</title>
+      <link>https://watch.docnyc.net/2023-jury/</link>
+      <description>DOC NYC, the leading documentary film festival in the United States, has announced its 2023 jury. The jury will be led by Academy Award-winning filmmaker Laura Poitras.</description>
+      <pubDate>Fri, 20 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://watch.docnyc.net/2023-jury/</guid>
+      <author>DOC NYC</author>
+    </item>
+    <item>
+      <title>DOC NYC Announces 2023 Partners</title>
+      <link>https://watch.docnyc.net/2023-partners/</link>
+      <description>DOC NYC, the leading documentary film festival in the United States, has announced its 2023 partners. The festival is proud to partner with a wide range of organizations, including HBO, Netflix, and the Tribeca Film Institute.</description>
+      <pubDate>Fri, 20 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://watch.docnyc.net/2023-partners/</guid>
+      <author>DOC NYC</author>
+    </item>
+  </channel>
+</rss>
